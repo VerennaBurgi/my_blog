@@ -1,0 +1,39 @@
+body {
+    background-image: url(photos.jpg);
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: lavender;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    
+}
+p {
+    margin: 0;
+}
+.about_info {
+    text-align: center;
+    background-color: rgb(54, 54, 54);
+    padding-top: 8px;
+    padding-bottom: 8px;
+    height: 100%;
+    width: 100%;
+}
+.main_content {
+    text-align: center;
+    margin-top: 80px;
+    height: 100%;
+    width: 100%;
+}
+.my_blog {
+    margin-bottom: 10px;
+    font-size: 50px;
+}
+.sub_text {
+    margin-top: 0;
+    font-size: 15px;
+}
+p, .about_info {
+    display: inline-block;
+    margin-right: 10px;
+}
